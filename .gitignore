@@ -1,0 +1,8 @@
+.claude
+.claude/
+.vscode
+.vscode/
+__pycache__
+__pycache__/
+data/
+game_data/
